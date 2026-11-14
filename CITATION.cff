@@ -1,0 +1,12 @@
+# Citation File Format: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: If you use this software, please cite it using this metadata and record the commit
+  or release used.
+title: 'pyDnz: A Python client for the DigitalNZ API'
+authors:
+- family-names: McDowall
+  given-names: Chris
+repository-code: https://github.com/edithatogo/pydnz
+url: https://github.com/edithatogo/pydnz
+abstract: This repository is a fork of fogonwater/pydnz. The upstream project retains its
+  authorship and attribution. Cite the exact repository revision used.
